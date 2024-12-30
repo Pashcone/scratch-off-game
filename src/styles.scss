@@ -1,11 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
-:root{
+:root {
   margin: 0;
   padding: 0;
-
 }
 
-html, body{
+html,
+body {
   margin: 0;
   padding: 0;
+  background: black;
+  min-height: 100dvh;
+  height: auto;
+  width: 100%;
 }
